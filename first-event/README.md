@@ -5,6 +5,9 @@
 Math of Goldfish에서 열리는 첫 번째 이벤트!
 GitHub에 업로드된 10개의 문제를 빨리 풀어 마지막의 최종 상품 지급 비밀번호를 방장에게 보내면 됩니다.
 
+## 최종 상품 지급 비밀번호
+[암호화 사이트](https://emn178.github.io/online-tools/sha512.html)에서 `reward.pdf`의 지시에 따르세요.
+
 ## 정보
 ### 참가 대상
 Math of Minifish 이용자라면 누구나
