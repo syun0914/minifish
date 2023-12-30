@@ -1,5 +1,5 @@
 # 제2회 Math of Minifish 이벤트
-MERRY CHRISTMAS - 크리스마스의 악몽 -
+MERRY CHRISTMAS - 크리스마스의 악몽, 그리고 해맞이 액땜 -
 
 ## 안내
 Math of Minifish에서 열리는 두 번째 이벤트!
